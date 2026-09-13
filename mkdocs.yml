@@ -1,7 +1,7 @@
 site_name: 新版离婚证制作设计解析：高清样本与防伪细节注解
 theme:
   name: material
-custom_dir: overrides
+  custom_dir: overrides
 
 nav:
   - 首页: index.md
