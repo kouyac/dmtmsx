@@ -2,3 +2,10 @@ site_name: 新版离婚证制作设计解析：高清样本与防伪细节注解
 theme:
   name: material
 custom_dir: overrides
+
+nav:
+  - 首页: index.md
+  - 离婚证设计解析:
+    - 一、外观规格与材质解析: divorce-certificate-spec.md
+    - 二、内页版式与样本注解: divorce-certificate-layout.md
+    - 三、安全防伪细节注解: divorce-certificate-security.md
